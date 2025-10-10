@@ -32,11 +32,17 @@ export const experience = [
 ];
 
 export const projects = [
+    {
+    title: "CryptoDashboard",
+    tech: ["React", "Vite", "Node.js"],
+    description: "A small web app to track cryptocurrency prices.",
+    link: "https://crypto.nickswanenberg.nl/",
+  },
   {
     title: "PlanEase",
     tech: ["React", "Vite", "Node.js"],
     description: "A small web app to plan and organize tasks efficiently.",
-    link: "https://github.com/KnopperDev/PlanEase",
+    link: "https://planease.nickswanenberg.nl/",
   },
   {
     title: "Discord Casino Bot",
